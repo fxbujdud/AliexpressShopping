@@ -10,5 +10,9 @@ public class Setup {
     
     public void prueba(){
         System.out.println("Kiubo Pancho Budud");
+        System.out.println("Kiubo Pancho Budud");
+        System.out.println("Kiubo Pancho Budud");
+        System.out.println("Kiubo Pancho Budud");
+        System.out.println("Kiubo Pancho Budud");
     }
 }
